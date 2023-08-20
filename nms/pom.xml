@@ -6,7 +6,7 @@
     <parent>
         <groupId>me.filoghost.holographicdisplays</groupId>
         <artifactId>holographicdisplays-parent</artifactId>
-        <version>3.0.1-SNAPSHOT</version>
+        <version>3.0.3</version>
     </parent>
 
     <artifactId>holographicdisplays-nms</artifactId>
@@ -23,14 +23,14 @@
         <module>v1_13_r2</module>
         <module>v1_14_r1</module>
         <module>v1_15_r1</module>
-        <module>v1_16_r1</module>
-        <module>v1_16_r2</module>
         <module>v1_16_r3</module>
         <module>v1_17_r1</module>
         <module>v1_18_r1</module>
         <module>v1_18_r2</module>
         <module>v1_19_r1</module>
         <module>v1_19_r2</module>
+        <module>v1_19_r3</module>
+        <module>v1_20_r1</module>
     </modules>
 
     <dependencies>
